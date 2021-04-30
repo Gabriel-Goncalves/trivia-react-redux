@@ -111,11 +111,6 @@ class Login extends React.Component {
                   </label>
                 </div>
               </form>
-              <img src="https://cdn.discordapp.com/attachments/697509460314423447/818628525929267271/1615246638572.png" alt="" className="img-icaro" />
-              <img src="https://cdn.discordapp.com/attachments/697509460314423447/818638613059338250/1615249031948.png" alt="" className="img-let" />
-              <img src="https://cdn.discordapp.com/attachments/697509460314423447/818643562551443476/1615250226808.png" alt="" className="img-wolf" />
-              <img src="https://cdn.discordapp.com/attachments/697509460314423447/818821602992455710/1615292465504.png" alt="" className="img-alberto" />
-              <img src="https://cdn.discordapp.com/attachments/697509460314423447/818833691630501911/1615295548925.png" alt="" className="img-guilherme" />
             </main>
           )}
         </header>
